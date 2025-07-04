@@ -17,7 +17,7 @@ input:hover {
 }
 
 .deletbutton:hover {
-    background-color: red;
+    background-color: rgb(43, 255, 0);
 }
 
 .editbutton:hover{
